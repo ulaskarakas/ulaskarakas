@@ -14,12 +14,12 @@
   - Share knowledge through blogging and contribute to the tech community  
 
 ## ✍️ My Blog
-I share my learnings on software and technology on my [Medium blog](https://medium.com/@ulaskarakas95) 
+I share my learnings on software and technology on my [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ulaskarakas95)
+
 
 ## 📫 Get in Touch
-- **Email:** [ulaskarakas95@gmail.com](mailto:ulaskarakas95@gmail.com)
-- **LinkedIn:** [Ulaş Karakaş](https://www.linkedin.com/in/ulas-karakas/)
-- **GitHub:** [Ulaş Karakaş](https://github.com/ulaskarakas)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ulaskarakas95@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulas-karakas/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ulaskarakas)
+  
 <!--
 
 ## 🚀 Technologies & Tools
