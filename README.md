@@ -68,6 +68,6 @@ Experienced Information Technology Engineer with a strong background in software
   <h2>⚡️ Where to find me</h2>
   <a href="mailto:ulaskarakas95@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&amp;logoColor=white" alt="email"></a> 
   <a href="https://linkedin.com/in/ulas-karakas"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&amp;logoColor=white" alt="LinkedIn"></a> 
-  <a href="https://medium.com/@@ulaskarakas95"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> 
+  <a href="https://medium.com/@ulaskarakas95"><img src="https://img.shields.io/badge/Medium-12100E?logo=medium&amp;logoColor=white" alt="Medium"></a> 
   <a href="https://stackoverflow.com/users/28284681"><img src="https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&amp;logoColor=white" alt="Stack Overflow"></a>
 </div>
